@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">My name is Ricardo, but I prefer to be called Rich. I am currently studying Data Science Engineering, but I am passionate about focusing on the field of cybersecurity</h3>
+<h3 align="center">Mi nombre es Ricardo, pero me gusta que me llamen Rich. Estoy estudiando Ingeniería en Ciencia de Datos, pero quiero enfocarme en la ciberseguridad.</h3>
+
+<br>
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -10,4 +12,7 @@
 
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richp02&show_icons=true&locale=en" alt="richp02" /></p>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=richp02&show_icons=true&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richp02&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=tokyonight" />
+</span>
