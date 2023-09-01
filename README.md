@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
+<h1 align="center">Hi 👋, I'm Rich</h1>
 <h3 align="center">Mi nombre es Ricardo, pero me gusta que me llamen Rich. Estoy estudiando Ingeniería en Ciencia de Datos, pero quiero enfocarme en la ciberseguridad.</h3>
 
 <br>
